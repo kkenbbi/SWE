@@ -30,5 +30,5 @@ While my work focused on the search feature, the app as a whole is designed to:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/kkenbbi/SWE.git
 
